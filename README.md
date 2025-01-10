@@ -27,6 +27,7 @@ A full-stack MERN project utilizing Vite and a GraphQL API for efficient project
 ### Frontend:
 - Vite
 - React.js
+- Bootstrap
 
 ### Backend:
 - Node.js
